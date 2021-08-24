@@ -5,7 +5,7 @@ Not all code hosted here is beautiful or even good; there are old code and exper
 ### About me
 
 I’ve been working with development for over 18 years.  
-My first contact with programming was when I was 8, with a [CP-400](https://en.wikipedia.org/wiki/Prol%C3%B3gica_CP-400) (I don’t miss it).
+My first contact with programming was when I was 8, with a [CP-400](https://en.wikipedia.org/wiki/Prol%C3%B3gica_CP-400), a TRS-80 clone. (I don’t miss it).
 
 Fascinated by technology, I really have fun learning and experimenting the techs I consider interesting.
 
