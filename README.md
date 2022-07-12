@@ -20,6 +20,7 @@ I’ve worked with Java, JEE for years, but sorry if it is not in the list above
 - I’m currently working on exciting new features in Plagius - Plagiarism detector software.
   - There is already a preview version of Plagius for Mac  \o/.
 - I’m currently learning distributed databases systems, Vue, CEF, cross-platform apps...
+- Recently I'm working for a company, implementing customizations for Sitecore and EPiServer.
 
 ### What can I do for you?
 
