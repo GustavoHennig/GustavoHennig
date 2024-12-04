@@ -1,31 +1,31 @@
 ### Hi there
 
-Not all code hosted here is beautiful or even good; there are old code and experimentations, please don't judge me.
+Not all code hosted here is beautiful or even good; there are old code and experimentations, so please don’t judge too harshly.
 
 ### About me
 
 I’ve been working with development for over 18 years.  
-My first contact with programming was when I was 8, with a [CP-400](https://en.wikipedia.org/wiki/Prol%C3%B3gica_CP-400), a TRS-80 clone. (I don’t miss it).
+My first contact with programming was at 8 years old, with a [CP-400](https://en.wikipedia.org/wiki/Prol%C3%B3gica_CP-400), a TRS-80 clone. (I don’t miss it).
 
-Fascinated by technology, I really have fun learning and experimenting the techs I consider interesting.
+My journey has been driven by a fascination with technology. I enjoy learning and experimenting with interesting tools and technologies.
 
 ### IT things I like
 
-**Thinks that I worked with, and I liked**  
-Python, ASP.NET CORE, Android Native, ORMs, Cross-platform apps (Win, Mac, Linux), Vue, Angular, Alpine JS, Django, SQLite, Chromium Embedded Framework, Data Mining, Cassandra, and Postgres...  
-I’ve worked with Java, JEE for years, but sorry if it is not in the list above. :grimacing:
+**Technologies I’ve worked with and liked:**  
 
-### What I am doing
+Python, ASP.NET CORE, Android Native, ORMs, Cross-platform apps (Win, Mac, Linux), Vue, Angular, Alpine JS, Django, SQLite, Chromium Embedded Framework, Data Mining, Cassandra, and PostgresSQL...  
 
-- I’m currently working on exciting new features in Plagius - Plagiarism detector software.
-  - There is already a preview version of Plagius for Mac  \o/.
-- I’m currently learning distributed databases systems, Vue, CEF, cross-platform apps...
-- Recently I'm working for a company, implementing customizations for Sitecore and EPiServer.
+I’ve worked with Java and JEE for years, but... they didn’t make this list. :grimacing:
+
+### What I'm doing
+
+- Working on exciting new features in Plagius - Plagiarism detection software.
+- - Now there is a stable version of Plagius for Mac  \o/🎉.
+- Learning more about distributed database systems, Vue, CEF, and cross-platform development, Avalonia...
 
 ### What can I do for you?
 
-I have my own projects, but if you have something interesting, I would be happy to hear it.
-
+While I focus on my own projects, I’m always interested in hearing about something exciting. Feel free to reach out if you think there’s a great fit!
 
 <!--
 **GustavoHennig/GustavoHennig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
