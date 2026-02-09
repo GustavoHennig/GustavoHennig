@@ -40,7 +40,7 @@ I’ve worked with Java and JEE for years, but… they didn’t make this list. 
 | **[CefGlue](https://github.com/GustavoHennig/CefGlue)**                                   | Cross‑platform .NET/Mono P/Invoke binding for Chromium Embedded Framework, with additional patches for modern CEF versions and macOS support.                         | C#, CEF                |
 | **[FileSearch](https://github.com/GustavoHennig/FileSearch)**                             | No‑index desktop file/content searcher – handy for quick dives into small folders when you don’t want a background indexer consuming resources.                       | C#, Avalonia           |
 | **[MarkdownToRtf](https://github.com/GustavoHennig/MarkdownToRtf)**                       | Minimal library to convert Markdown into RTF – perfect for generating rich‑text reports from Markdown sources.                                                        | C#                     |
-| **[MarkdownToRtf](https://github.com/GustavoHennig/SourceGit)**                           | Adapted a spell checker to the commit text box                                                      | C#                     |
+| **[SourceGit](https://github.com/GustavoHennig/SourceGit)**                              | Adapted a spell checker to the commit text box                                                      | C#                     |
 
 > GitHub only lets you pin a handful of repositories. This table spotlights the other projects I actively maintain or hack on.
 
