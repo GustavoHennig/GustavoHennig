@@ -46,12 +46,6 @@ I’ve worked with Java and JEE for years, but… they didn’t make this list. 
 
 ---
 
-### What can I do for you?
-
-While I focus on my own projects, I’m always interested in hearing about something exciting. Feel free to reach out if you think there’s a great fit!
-
----
-
 <!--
 **GustavoHennig/GustavoHennig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
